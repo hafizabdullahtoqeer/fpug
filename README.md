@@ -1,2 +1,2 @@
 # fpug
-my first project6
+my first project
